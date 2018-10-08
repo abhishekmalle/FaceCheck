@@ -16,6 +16,11 @@ Built using [face_recognition](https://github.com/ageitgey/face_recognition)'s s
 ## Demo
 ![](demo.gif)
 
+## Usage
+- run gui.py for a gui interface
+- run main.py for a console interaction
+- run face_detection_sample.py for a demo of the face tracking feature
+
 ## Additional Notes
-- Most of the code is self-explanatory or commented, but I will add a Docs section later. 
+- Most of the code is self-explanatory or commented, so take a look at the code if you're interested in how it works. 
 - Feel free to open an issue or a pull request if you see something wrong or an improvement!
