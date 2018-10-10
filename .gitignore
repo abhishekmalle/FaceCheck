@@ -1,2 +1,4 @@
 /wild_Data/
 *.pyc
+failedAttempts.json
+successfulAttempts.json
