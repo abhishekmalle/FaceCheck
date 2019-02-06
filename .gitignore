@@ -2,3 +2,5 @@
 *.pyc
 failedAttempts.json
 successfulAttempts.json
+failedAttempts.json
+successfulAttempts.json
